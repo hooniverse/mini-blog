@@ -27,7 +27,7 @@ const Container = styled.div`
     }
 `;
 
-const PostContainer = styeld.div`
+const PostContainer = styled.div`
     padding: 8px 16px;
     border: 1px solid grey;
     border-radius:8px;

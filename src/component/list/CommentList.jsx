@@ -26,6 +26,5 @@ function CommentList(props){
                 })}
         </Wrapper>
     );   
-}ß
-
+}
 export default CommentList;
